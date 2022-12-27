@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+form {
+  width: 300px;
+  background-color: springgreen;
+}
+h2 {
+  text-align: center;
+  background-color: darkgreen;
+}
+button {
+  width: 60px;
+  color: white;
+  margin-left: 120px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: darkgreen;
+}
+#logIn {
+  margin-left: 600px;
+  margin-top: 250px;
+}
